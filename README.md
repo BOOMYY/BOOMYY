@@ -1,3 +1,6 @@
+## 👦:About Me
+  JOSHUA VERGARA LAGAN
+
 <p align="left">
   <a href="mailto:joshualagan099@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -9,7 +12,7 @@
   * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - Present
 
 
-## :sparkles:Languages, Frameworks, Tools
+## :sparkles:Languages, Frameworks, Tools and etc.
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
