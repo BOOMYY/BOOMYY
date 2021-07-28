@@ -10,7 +10,7 @@
 
 ## :white_heart:Interests
 * Learning new skills and improving my current skills.
-* Apart from being a web and mobile developer, I enjoy listening to music, playing guitar and playing online games, specially NBA2k :slight_smile:
+* Apart from being a web and mobile developer, I enjoy listening to music, playing guitar and playing online games, specially NBA2k.
 * I am currently interested and exploring in front-end and back end.
 * I spend a large of amount of my free time to exploring the latest technology advancements in front-end and back-end web and mobile development world.
 
