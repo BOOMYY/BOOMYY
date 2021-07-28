@@ -1,5 +1,5 @@
 ## 👦:About Me 🤙
-  JOSHUA VERGARA LAGAN
+  JOSHUA VERGARA LAGAN | 
   BOOMY
 
 <p align="left">
