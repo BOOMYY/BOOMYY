@@ -1,5 +1,6 @@
-## 👦:About Me
+## 👦:About Me 🤙
   JOSHUA VERGARA LAGAN
+  BOOMY
 
 <p align="left">
   <a href="mailto:joshualagan099@gmail.com">
