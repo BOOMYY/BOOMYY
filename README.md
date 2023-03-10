@@ -16,7 +16,7 @@
 
 ## :school_satchel:Education
 * National University - Manila, Philippines
-  * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - Present
+  * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - 2022
 
 
 ## 🚀:Languages, Frameworks, Tools and etc.
